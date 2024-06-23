@@ -1,5 +1,5 @@
 # Investment Finance Project: Millennium Management Fund
-#### Authors: Kaiwen Shen, Carl Yang, Harry Li, Zixiao Min
+#### Authors: Kaiwen Shen, Carl Yang, Harry Li, Zixiao Min, Brian Zhao
 #### Date: 2024-06-17
 
 ## Introduction
