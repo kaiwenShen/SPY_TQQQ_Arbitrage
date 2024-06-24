@@ -3,4 +3,4 @@
 #### Date: 2024-06-17
 
 ## Introduction
-This is a MMF project for the Investment Finance course. We are required to build a trading strategy and present in-class
+This GitHub repository hosts a University of Toronto Master of Mathematical Finance academic project for the Investment Finance course. Our objective is to develop an ETF arbitrage trading strategy and present it during an in-class session.
